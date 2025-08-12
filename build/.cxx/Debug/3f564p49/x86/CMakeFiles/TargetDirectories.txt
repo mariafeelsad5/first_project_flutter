@@ -1,0 +1,2 @@
+C:/Users/AdminOS/StudioProjects/first_project/build/.cxx/Debug/3f564p49/x86/CMakeFiles/edit_cache.dir
+C:/Users/AdminOS/StudioProjects/first_project/build/.cxx/Debug/3f564p49/x86/CMakeFiles/rebuild_cache.dir
