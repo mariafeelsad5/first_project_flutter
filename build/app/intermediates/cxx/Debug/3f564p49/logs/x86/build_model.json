@@ -10,7 +10,7 @@
   },
   "cxxBuildFolder": "C:\\Users\\AdminOS\\StudioProjects\\first_project\\build\\.cxx\\Debug\\3f564p49\\x86",
   "soFolder": "C:\\Users\\AdminOS\\StudioProjects\\first_project\\build\\app\\intermediates\\cxx\\Debug\\3f564p49\\obj\\x86",
-  "soRepublishFolder": "C:\\Users\\AdminOS\\StudioProjects\\first_project\\build\\app\\intermediates\\cmake\\profile\\obj\\x86",
+  "soRepublishFolder": "C:\\Users\\AdminOS\\StudioProjects\\first_project\\build\\app\\intermediates\\cmake\\debug\\obj\\x86",
   "abiPlatformVersion": 21,
   "cmake": {
     "effectiveConfiguration": {
@@ -25,7 +25,7 @@
     ],
     "cFlagsList": [],
     "cppFlagsList": [],
-    "variantName": "profile",
+    "variantName": "debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
       "armeabi-v7a",

@@ -1,6 +1,6 @@
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter/material.dart';
-
+import 'package:first_project/Top_10/user_details.dart';
 class ProfileScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

@@ -1,3 +1,5 @@
+import 'package:first_project/Top_10/top_ten.dart';
+import 'package:first_project/Top_10/user_screen.dart';
 import 'package:flutter/material.dart';
 import 'sign_up.dart';
 import 'profile.dart';
@@ -24,15 +26,30 @@ class LoginScreen extends StatelessWidget {
                 );
               },
             ),
-            TextButton(
-              child: Text("Don't have an account? Sign up"),
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => SignUpScreen()),
-                );
-              },
-            )
+            Container(
+              child: TextButton(
+                child: Text("Don't have an account? Sign up"),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => SignUpScreen()),
+                  );
+                },
+              ), ),
+            Container(
+                child: TextButton(
+                child: Text("Do you want to go top ten screen?"
+                    "\n                press here",
+                  style: TextStyle(color: Colors.teal),),
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => UsersScreen()),
+                  );
+                },
+                            ),
+              ),
+
           ],
         ),
       ),

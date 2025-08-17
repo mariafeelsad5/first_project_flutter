@@ -25,4 +25,5 @@ com.example.first_project.app-resValues-23 C:\Users\AdminOS\StudioProjects\first
 com.example.first_project.app-packageDebugResources-24 C:\Users\AdminOS\StudioProjects\first_project\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
 com.example.first_project.app-packageDebugResources-25 C:\Users\AdminOS\StudioProjects\first_project\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
 com.example.first_project.app-debug-26 C:\Users\AdminOS\StudioProjects\first_project\build\app\intermediates\merged_res\debug\mergeDebugResources
-com.example.first_project.app-debug-27 C:\Users\AdminOS\StudioProjects\first_project\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources
+com.example.first_project.app-debug-27 C:\Users\AdminOS\StudioProjects\first_project\build\flutter_native_splash\intermediates\packaged_res\debug\packageDebugResources
+com.example.first_project.app-debug-28 C:\Users\AdminOS\StudioProjects\first_project\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources

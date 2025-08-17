@@ -26,6 +26,7 @@ MERGED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\main\A
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+MERGED from [:flutter_native_splash] C:\Users\AdminOS\StudioProjects\first_project\build\flutter_native_splash\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider_android] C:\Users\AdminOS\StudioProjects\first_project\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\AdminOS\.gradle\caches\8.12\transforms\1c8746a36ac065afed39d95b2852a559\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] C:\Users\AdminOS\.gradle\caches\8.12\transforms\197f12b192a3f06912c946d4cbd2dd7d\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
@@ -81,6 +82,8 @@ uses-sdk
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\AdminOS\StudioProjects\first_project\android\app\src\debug\AndroidManifest.xml
+MERGED from [:flutter_native_splash] C:\Users\AdminOS\StudioProjects\first_project\build\flutter_native_splash\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_splash] C:\Users\AdminOS\StudioProjects\first_project\build\flutter_native_splash\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_android] C:\Users\AdminOS\StudioProjects\first_project\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_android] C:\Users\AdminOS\StudioProjects\first_project\build\path_provider_android\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\AdminOS\.gradle\caches\8.12\transforms\1c8746a36ac065afed39d95b2852a559\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
